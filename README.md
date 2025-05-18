@@ -26,6 +26,7 @@ https://www.transmissionzero.co.uk/software/freeglut-devel/
 
 
   4) 라이브러리 lib 경로 복사
+     
      ![image](https://github.com/user-attachments/assets/86673c8e-a358-4954-a0a0-1a5b979da2ec)
 
 
