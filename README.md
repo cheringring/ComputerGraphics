@@ -14,11 +14,13 @@ https://www.transmissionzero.co.uk/software/freeglut-devel/
 
 3. visual Studio 랑 OpenGL 연동하기
    1) Debug x86 설정
+      
    2) opengl 내 include 경로 복사
+      
       ![image](https://github.com/user-attachments/assets/b2ebb88f-71b4-409e-92a8-5c25702a532a)
 
 
-   4) 포함 디렉토리에 include 경로 추가
+   3) 포함 디렉토리에 include 경로 추가
     ![image](https://github.com/user-attachments/assets/e0e1540a-53c8-494d-9116-e943bf90ee4f)
 
 
