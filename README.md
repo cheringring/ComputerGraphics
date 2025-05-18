@@ -1,6 +1,9 @@
 # Computer_Graphics
 [2023-2]
 
+![image](https://github.com/user-attachments/assets/5734fcfe-1464-4467-87b7-b55cc0d35264)
+
+
 Window 버전으로 개발했습니다.
 <br>
 
