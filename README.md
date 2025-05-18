@@ -43,7 +43,7 @@ https://www.transmissionzero.co.uk/software/freeglut-devel/
 
 
 
-  8) 디버그 / 릴리즈 용 구분 dull
+  7) 디버그 / 릴리즈 용 구분 dull
      freeglut.dll 복사해서 freeglutd.dll 생성
      ![image](https://github.com/user-attachments/assets/4a072691-ab0b-4318-bbd5-ae00975be67d)
 
