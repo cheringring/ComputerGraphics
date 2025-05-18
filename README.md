@@ -4,6 +4,7 @@
 Window 버전으로 개발했습니다.
 <br>
 
+> setting
 1. freeglut 공식 사이트에서 Windows용 freeglut MSVC Package 를 다운로드
 https://www.transmissionzero.co.uk/software/freeglut-devel/
 
