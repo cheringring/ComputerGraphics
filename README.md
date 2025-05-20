@@ -1,5 +1,7 @@
 # Computer_Graphics
 [2023-2]
+<br>
+링크 : https://youtu.be/ZuLtDkgmyWs?si=d35w-fI6voO2APwY
 
 ![image](https://github.com/user-attachments/assets/5734fcfe-1464-4467-87b7-b55cc0d35264)
 
